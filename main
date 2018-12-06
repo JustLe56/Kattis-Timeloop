@@ -1,0 +1,10 @@
+import sys
+maxChant = 5 #sys.stdin
+chantAmount = 0
+
+for chant in range(0,maxChant):
+  chantAmount = chantAmount +1;
+  if chantAmount <= maxChant:
+    print (chantAmount,"Abracadabra")
+  else:
+    break
