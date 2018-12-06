@@ -1,4 +1,4 @@
-import sys
+
 maxChant = 5 #sys.stdin
 chantAmount = 0
 
